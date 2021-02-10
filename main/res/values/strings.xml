@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">assessment</string>
+    
+    <string-array name="spinners_value">
+        <item>Not Selected</item>
+        <item>M-tech</item>
+        <item>B-tech</item>
+        <item>ME</item>
+        <item>BE</item>
+        <item>12th</item>
+        <item>10th</item>
+    </string-array>
+</resources>
